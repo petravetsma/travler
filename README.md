@@ -1,2 +1,2 @@
 ## That's my old study project
-https://stengof.github.io/travler/index.html
+https://stengof.github.io/travler/
